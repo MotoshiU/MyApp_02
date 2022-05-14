@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyApp_02</string>
+    <string name="questionNumber">第1問</string>
+    <string name="questionText">”AAA”の意味は？</string>
+    <string name="btn_Choice_1">選択肢1</string>
+    <string name="btn_Choice_2">選択肢2</string>
+    <string name="btn_Choice_3">選択肢3</string>
+    <string name="answer_text"> </string>
+    <string name="btn_next">NEXT</string>
+    <string name="correctAnswer"> </string>
+    <string name="resultText">お疲れさまでした！</string>
+    <string name="correctNum"> </string>
+    <string name="titleText">単語テスト</string>
+    <string name="btn_Start">Start</string>
+    <string name="btn_BackTop">Move to Top Page</string>
+</resources>
